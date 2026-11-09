@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Zoom Tracking",
+	"Description": "Reads the lens zoom code from the RVM matte (Spout) and drives a cine camera and its video plates.",
+	"Category": "Virtual Production",
+	"CreatedBy": "Mat_Depth_Proj",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.8.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ZoomTracking",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+# Unreal generated (rebuilt on open)
+/Binaries/
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+Plugins/*/Intermediate/
+
+# Plugin DLLs are kept so the project opens without compiling; debug symbols are not
+*.pdb
+
+# IDE / Python
+.vs/
+.vscode/
+*.sln
+__pycache__/
+*.pyc
